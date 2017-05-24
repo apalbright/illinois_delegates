@@ -1,6 +1,4 @@
 #Alex Albright (thelittledataset.com & @AllbriteAllday)
-#Code for visuals in "Where My Girls At? (In The Sciences)"
-#Using ggplot2 and ggrepel from devtools 2/24/16
 
 #Load libraries
 library(ggplot2);library(ggrepel); library(ggthemes);library(plyr);library(reshape);library(grid);library(scales);library(RColorBrewer);library(gridExtra)
